@@ -11,6 +11,9 @@ This is a simple food menu webpage featuring a 4-card component showcasing food 
 1. HTML: For the structure of the webpage.
 2. CSS: For styling and layout.
 
+## Check it out
+You can view the Reestar Food website by visiting by -> [Link](https://ariyavasanth.github.io/Reestar_food_menu/)
+
 ## What I Learned
 While working on this project, I gained valuable skills and insights:
 
@@ -38,4 +41,10 @@ Learned to push the project to GitHub and manage repositories effectively.
 
 Overcame challenges in aligning elements and creating a clean, user-friendly design.
 This project helped me apply the concepts I’ve been learning and gain confidence in building small web components.
+
+## Contributing
+If you'd like to contribute, suggest improvement, or provide feedback, feel free to open an issue or creat a pull request.
+
+## Thank you For Visiting
+Thank you for visiting my reestar_food website feel free to explore and reach out
 
